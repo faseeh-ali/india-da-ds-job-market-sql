@@ -3,8 +3,7 @@
 I built this to answer a question I had for myself: **what do Indian companies
 actually ask for in Data Analyst / Data Scientist job postings, and does it
 differ by city?** I'm a 2025 B.Tech (AI & Data Science) grad job-hunting for
-DA/Junior DS roles, and I wanted real answers to guide my own upskilling —
-not another pass at the Olist e-commerce dataset everyone uses.
+DA/Junior DS roles, and I wanted real answers to guide my own upskilling.
 
 ## What this is
 - A normalized MySQL schema (`jobs`, `skills`, `job_skills`) built from two
